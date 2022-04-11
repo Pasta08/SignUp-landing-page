@@ -4,7 +4,7 @@ function Title() {
   return (
     <div className="title">
       {" "}
-      <h1>Login</h1>
+      <h1>Sign Up</h1>
     </div>
   );
 }
